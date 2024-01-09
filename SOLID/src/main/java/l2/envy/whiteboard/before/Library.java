@@ -1,4 +1,4 @@
-package l2.envy.whiteboard;
+package l2.envy.whiteboard.before;
 
 import java.util.ArrayList;
 import java.util.List;
